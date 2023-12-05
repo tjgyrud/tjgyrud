@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello
+my name is hyogyung, i live in Bucheon
 
-<!--
-**tjgyrud/tjgyrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I’m currently learning
+- Opensose
+- MySQL
+- Excel
+- Orange3
+___
+###### How to reach me: click [here](https://eclass.dongyang.ac.kr/)
+![깃허브](https://github.com/tjgyrud/tjgyrud/assets/144201253/579200bc-b00c-4a72-965d-da565af6935f)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
