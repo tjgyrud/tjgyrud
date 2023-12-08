@@ -1,7 +1,7 @@
 # Hello
-my name is hyogyung, i live in Bucheon
+제 이름은 서효경이고, 대한민국 부천에서 살고 있습니다.
 
-### I’m currently learning
+### 현재 내가 배우고 있는 것
 - Opensose
 - MySQL
 - Excel
